@@ -1,0 +1,7 @@
+D:\Sources\Training\Launcher\TrainingCodeLauncher\TrainingCodeLauncher\bin\Debug\TrainingCodeLauncher.exe.config
+D:\Sources\Training\Launcher\TrainingCodeLauncher\TrainingCodeLauncher\bin\Debug\TrainingCodeLauncher.exe
+D:\Sources\Training\Launcher\TrainingCodeLauncher\TrainingCodeLauncher\bin\Debug\TrainingCodeLauncher.pdb
+D:\Sources\Training\Launcher\TrainingCodeLauncher\TrainingCodeLauncher\obj\Debug\TrainingCodeLauncher.csprojAssemblyReference.cache
+D:\Sources\Training\Launcher\TrainingCodeLauncher\TrainingCodeLauncher\obj\Debug\TrainingCodeLauncher.csproj.CoreCompileInputs.cache
+D:\Sources\Training\Launcher\TrainingCodeLauncher\TrainingCodeLauncher\obj\Debug\TrainingCodeLauncher.exe
+D:\Sources\Training\Launcher\TrainingCodeLauncher\TrainingCodeLauncher\obj\Debug\TrainingCodeLauncher.pdb
