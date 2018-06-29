@@ -12,7 +12,7 @@ namespace TrainingCodeLauncher
 			this.options = options;
 		}
 
-		public Dictionary<string, string> options;
+		public new Dictionary<string, string> options;
 
 		public new string Show()
 		{

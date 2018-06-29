@@ -8,7 +8,7 @@
 
 		public new bool Show()
 		{
-			return base.Show() == 1;
+			return base.Show() != 1;
 		}
 	}
 }

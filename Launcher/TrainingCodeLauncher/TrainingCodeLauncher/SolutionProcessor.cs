@@ -72,13 +72,13 @@ namespace TrainingCodeLauncher
 		{
 			if (useDefaultInput)
 			{
-				Console.Write("USER > ");
-				return Console.ReadLine();
+				Console.WriteLine("TCL > " + ConnectedSolution.DefaultInput[nextInputIndex]);
+				return ConnectedSolution.DefaultInput[nextInputIndex++];
 			}
 			else
 			{
-				Console.WriteLine("TCL > " + ConnectedSolution.DefaultInput[nextInputIndex]);
-				return ConnectedSolution.DefaultInput[nextInputIndex++];
+				Console.Write("USER > ");
+				return Console.ReadLine();
 			}
 		}
 	}
